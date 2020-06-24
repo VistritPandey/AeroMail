@@ -1,8 +1,3 @@
-#File:        index.php
-#Purpose:     Building the website framework
-#Author:      Artem Yakupow
-#Date:        1 March, 2020
-#Dependency:  style.css
 <!doctype html>
 <html lang="en">
   <head>
