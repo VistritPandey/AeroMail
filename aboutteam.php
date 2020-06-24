@@ -1,8 +1,3 @@
-#File:        aboutteam.php
-#Purpose:     Descriptions of the members of the team
-#Author:      Artem Yakupov
-#Date:        1 March, 2020
-#Dependency:  style2.css
 <!doctype html>
 <html lang="en">
   <head>
