@@ -1,8 +1,3 @@
-#File:        regconf.php
-#Purpose:     Displaying the registration confirmation
-#Author:      Maria Minodora Mares, Artem Yakupow
-#Date:        1 May, 2020
-#Dependency:  style.css
 <!doctype html>
 <html lang="en">
   <head>
