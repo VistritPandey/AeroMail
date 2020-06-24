@@ -1,8 +1,3 @@
-#File:        login.php
-#Purpose:     Implementing log in page for senders
-#Author:      Maria Minodora Mares, Artem Yakupow
-#Date:        1 May, 2020
-#Dependency:  style.css
 <!doctype html>
 <html lang="en">
   <head>
