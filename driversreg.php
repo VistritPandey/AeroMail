@@ -1,8 +1,3 @@
-#File:        driversreg.php
-#Purpose:     Retrieve info from registration form and send it to database
-#Author:      Liam Sweeney, Artem Yakupow
-#Date:        20 February, 2020
-#Dependency:  ----------
 <?php
 
     
