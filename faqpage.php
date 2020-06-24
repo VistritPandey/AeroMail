@@ -1,8 +1,3 @@
-#File:        faqpage.php
-#Purpose:     Displaying frequently asked questions
-#Author:      Liam Sweeney
-#Date:        1 March, 2020
-#Dependency:  style2.css
 <!doctype html>
 <html lang="en">
   <head>
