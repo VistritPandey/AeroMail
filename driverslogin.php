@@ -1,8 +1,3 @@
-#File:        driverslogin.php
-#Purpose:     Log In page for drivers
-#Author:      Liam Sweeney
-#Date:        15 May, 2020
-#Dependency:  stylelogin.css
 <!doctype html>
 <html lang="en">
   <head>
