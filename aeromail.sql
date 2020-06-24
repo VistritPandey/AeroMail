@@ -1,9 +1,3 @@
-#File:        aeromail.sql
-#Purpose:     Connecting website to database
-#Author:      Artem Yakupov
-#Date:        1 April, 2020
-#Dependency:  ----------
-
 -- phpMyAdmin SQL Dump
 -- version 5.0.2
 -- https://www.phpmyadmin.net/
