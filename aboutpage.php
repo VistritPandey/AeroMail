@@ -1,8 +1,3 @@
-#File:        aboutpage.php
-#Purpose:     About Page for AeroMail
-#Author:      Maria Minodora Mares
-#Date:        1 March, 2020
-#Dependency:  style2.css
 <!doctype html>
 <html lang="en">
   <head>
