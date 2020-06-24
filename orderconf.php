@@ -1,8 +1,3 @@
-#File:        orderconf.php
-#Purpose:     Implementing the page that confirms someone's order
-#Author:      Artem Yakupow
-#Date:        15 May, 2020
-#Dependency:  style.css
 <!doctype html>
 <html lang="en">
   <head>
