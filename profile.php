@@ -1,8 +1,3 @@
-#File:        profile.php
-#Purpose:     Collecting info from database and displaying in the format of a profile page
-#Author:      Maria Minodora Mares
-#Date:        1 June, 2020
-#Dependency:  profile.css
 <?php
 // We need to use sessions, so you should always start sessions using the below code.
 session_start();
