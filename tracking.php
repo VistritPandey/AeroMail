@@ -1,8 +1,3 @@
-#File:        tracking.php
-#Purpose:     Implementing the way in which a sender can track his package
-#Author:      Artem Yakupov
-#Date:        3 June, 2020
-#Dependency:  style2.css, ordertracking.css
 <!doctype html>
 <html lang="en">
   <head>
