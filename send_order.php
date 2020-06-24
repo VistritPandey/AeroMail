@@ -1,8 +1,3 @@
-#File:        send_order.php
-#Purpose:     Collecting info from shipping form and sending it to database
-#Author:      Liam Sweeney, Artem Yakupov
-#Date:        8 May, 2020
-#Dependency:  ----------------------
 <?php
 
     
