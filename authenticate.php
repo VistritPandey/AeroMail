@@ -1,8 +1,3 @@
-#File:        authenticate.php
-#Purpose:     Make authentification for users possible
-#Author:      Artem Yakupow
-#Date:        15 April, 2020
-#Dependency:  ------------
 <?php
 session_start();
 // Change this to your connection info.
