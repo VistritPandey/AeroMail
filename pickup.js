@@ -1,8 +1,3 @@
-#File:        pickup.js
-#Purpose:     Implementing functionality for pick up page
-#Author:      Artem Yakupov
-#Date:        1 May, 2020
-#Dependency:  ------------
 $(document).ready(function () {
 
 	$('.star').on('click', function () {
