@@ -1,8 +1,3 @@
-#File:        senderslogin.php
-#Purpose:     Validating the log in for senders
-#Author:      Artem Yakupov
-#Date:        1 May, 2020
-#Dependency:  stylelogin.css
 <!doctype html>
 <html lang="en">
   <head>
