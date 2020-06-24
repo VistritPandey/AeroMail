@@ -1,8 +1,3 @@
-#File:        sendersreg.php
-#Purpose:     Collecting info from registration form and sending it to database
-#Author:      Maria Minodora Mares, Liam Sweeney, Artem Yakupov
-#Date:        1 June, 2020
-#Dependency:  ---------------------------
 <?php
 
     
