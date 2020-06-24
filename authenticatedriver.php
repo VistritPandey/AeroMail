@@ -1,8 +1,3 @@
-#File:        authenticatedriver.php
-#Purpose:     Authenticate drivers
-#Author:      Liam Sweeney
-#Date:        25 April, 2020
-#Dependency:  ----------
 <?php
 session_start();
 // Change this to your connection info.
