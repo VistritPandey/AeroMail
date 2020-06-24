@@ -1,8 +1,3 @@
-#File:        shippingform.php
-#Purpose:     Implement structure of shipping form
-#Author:      Maria Minodora Mares
-#Date:        20 April, 2020
-#Dependency:  shippingform.css
 <!doctype html>
 <html lang="en">
   <head>
