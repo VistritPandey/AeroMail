@@ -1,8 +1,3 @@
-#File:        pickup.php
-#Purpose:     Creating the page through which a driver can choose his delivery
-#Author:      Artem Yakupov
-#Date:        2 June, 2020
-#Dependency:  style2.css, pickup.css
 <!doctype html>
 <html lang="en">
   <head>
