@@ -1,8 +1,3 @@
-#File:        investors.php
-#Purpose:     Creating a page through which investors can get involved in our project
-#Author:      Maria Minodora Mares
-#Date:        1 March, 2020
-#Dependency:  style2.css
 <!doctype html>
 <html lang="en">
   <head>
