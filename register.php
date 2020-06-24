@@ -1,8 +1,3 @@
-#File:        register.php
-#Purpose:     Building a registration form for users
-#Author:      Maria Minodora Mares
-#Date:        1 May, 2020
-#Dependency:  register.css
 <!doctype html>
 <html lang="en">
   <head>
