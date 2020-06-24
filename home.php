@@ -1,8 +1,3 @@
-#File:        home.php
-#Purpose:     Designing the home page and considering if a session exist
-#Author:      Artem Yakupow, Maria Minodora Mares
-#Date:        1 May, 2020
-#Dependency:  style.css
 <?php
 // We need to use sessions, so you should always start sessions using the below code.
 session_start();
